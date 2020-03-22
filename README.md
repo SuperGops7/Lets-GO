@@ -1,2 +1,8 @@
 # Lets-GO
-Just me messing around with GOlang (as a part of TinkerHub's LFH program)
+
+*Day - 1*
+A basic introduction to the GO environment and its corresponding I/O operations. The echo program was created.
+
+*Day-2*
+Most of the Data types, basic and composite, were covered. A program that implemented type conversion was done.
+Fun fact: There's no type-casting in GOlang. :O
